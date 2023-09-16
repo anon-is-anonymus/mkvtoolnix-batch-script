@@ -1,0 +1,5 @@
+#ignore media
+**/media
+
+#ignore output files
+**/mkvmerge_out
